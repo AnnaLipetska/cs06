@@ -24,6 +24,6 @@ namespace task3
             Console.WriteLine($"{tC} °C равно {tF} по °F");
 
             Console.ReadKey();
-        }
+        } 
     }
 }
