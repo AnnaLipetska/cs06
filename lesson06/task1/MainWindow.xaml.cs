@@ -108,6 +108,8 @@ namespace task1
                 }
             }
 
+            infoBuilder.Append(new string('-', 60)).Append(Environment.NewLine).Append(Environment.NewLine);
+
             return infoBuilder.ToString();
         }
 
